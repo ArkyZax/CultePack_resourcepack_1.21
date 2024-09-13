@@ -33,7 +33,6 @@
 		{ "predicate": { "custom_model_data": 26 }, "model": "tableaux/tableau_iceberg" },
 		{ "predicate": { "custom_model_data": 27 }, "model": "tableaux/tableau_ile" },
 		{ "predicate": { "custom_model_data": 28 }, "model": "tableaux/tableau_ile_big" },
-		{ "predicate": { "custom_model_data": 28 }, "model": "tableaux/tableau_petit_village" },
 		{ "predicate": { "custom_model_data": 29 }, "model": "tableaux/tableau_ruine" },
 		{ "predicate": { "custom_model_data": 30 }, "model": "tableaux/tableau_troll" },
 		{ "predicate": { "custom_model_data": 31 }, "model": "tableaux/tableau_trou_infeste" },
@@ -43,8 +42,13 @@
 		{ "predicate": { "custom_model_data": 35 }, "model": "tableaux/tableau_wither" },
 		{ "predicate": { "custom_model_data": 36 }, "model": "hat/meteorite" },
 		{ "predicate": { "custom_model_data": 37 }, "model": "hat/boss_5_c" },
-		{ "predicate": { "custom_model_data": 38 }, "model": "item/statue/statue_og" }
-
+		{ "predicate": { "custom_model_data": 38 }, "model": "item/statue/statue_og" },
+		{ "predicate": { "custom_model_data": 39 }, "model": "tableaux/tableau_big_temple" },
+		{ "predicate": { "custom_model_data": 40 }, "model": "tableaux/tableau_temple" },
+		{ "predicate": { "custom_model_data": 41 }, "model": "tableaux/tableau_village_ocean" },
+		{ "predicate": { "custom_model_data": 42 }, "model": "tableaux/tableau_petit_village" },
+		{ "predicate": { "custom_model_data": 43 }, "model": "tableaux/tableau_village_magique" },
+		{ "predicate": { "custom_model_data": 44 }, "model": "tableaux/tableau_village_mutant" }
 
 
 		
